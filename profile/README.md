@@ -1,6 +1,6 @@
 # We are UllrAI
 
-## Hi there 👋
+## 👋 Hi there
 
 Welcome to UllrAI, where we use technology to simplify the world. We are all about creating simple, useful, and affordable AI tools for everyone.
 
@@ -14,4 +14,4 @@ We welcome contributions from the community. If you have ideas on how to improve
 
 ## 👩‍💻 Useful Resources
 
-For more information about our mission, our approach, and our products, please visit our website at [UllrAI](https://ullrai.com/). 
+For more information about our mission, our approach, and our products, please visit our website at [UllrAI](https://ullrai.com/) or [email us](mailto:hello+github@ullrai.com). 
