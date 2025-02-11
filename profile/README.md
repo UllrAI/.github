@@ -15,3 +15,10 @@ We welcome contributions from the community. If you have ideas on how to improve
 ## 👩‍💻 Useful Resources
 
 For more information about our mission, our approach, and our products, please visit our website at [UllrAI](https://ullrai.com/) or [email us](mailto:hello+github@ullrai.com). 
+
+## Product
+
+Professional portraits for every career stage at [HeadShot.cv](https://headshot.cv/?f=github-profile)
+Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/?f=github-profile)
+Discover the stories shaping our world through data-driven analysis and expert insights [Trend X Day ’s Topics](https://trendxday.com/?f=github-profile)
+
