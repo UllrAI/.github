@@ -18,9 +18,9 @@ For more information about our mission, our approach, and our products, please v
 
 ## Product
 
-Professional portraits for every career stage at [HeadShot.cv](https://headshot.cv/?f=github-profile)
+Professional portraits for every career stage at [HeadShot.cv](https://headshot.cv/)
 
-Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/?f=github-profile)
+Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/)
 
-Discover the stories shaping our world through data-driven analysis and expert insights [Trend X Day ’s Topics](https://trendxday.com/?f=github-profile)
+Discover the stories shaping our world through data-driven analysis and expert insights [Trend X Day ’s Topics](https://trendxday.com/)
 
