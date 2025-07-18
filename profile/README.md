@@ -30,4 +30,4 @@ Perfect Social Cards for Your Website at [OGimage.site](https://ogimage.site/)
 
 AI Transparent PNG Generator & Image Library - [HiPNG.com](https://hipng.com/)
 
-
+A SaaS boilerplate created entirely by Vibe Coding [SaaS Starter](https://starter.ullrai.com/)
