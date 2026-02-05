@@ -24,9 +24,9 @@ Professional portraits for every career stage at [HeadShot.cv](https://headshot.
 
 Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/)
 
-Discover the stories shaping our world through data-driven analysis and expert insights [Trend X Day ’s Topics](https://trendxday.com/)
+From Story to Animation - The professional AI workbench for Animated Story. [AniKuku](https://anikuku.com/)
 
-Perfect Social Cards for Your Website at [OGimage.site](https://ogimage.site/)
+Turn SKU Photos into Ecommerce Visuals [VibeSKU](https://vibesku.com/)
 
 AI Transparent PNG Generator & Image Library - [HiPNG.com](https://hipng.com/)
 
