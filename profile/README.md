@@ -20,7 +20,7 @@ For more information about our mission, our approach, and our products, please v
 
 Automatically Remove Background, No Photoshop skills are required at all. [PixMiller](https://pixmiller.com/)
 
-Professional portraits for every career stage at [HeadShot.cv](https://headshot.cv/)
+Professional portraits for every career stage at [HeadShots.fun](https://headshots.fun/)
 
 Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/)
 
