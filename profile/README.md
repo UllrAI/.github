@@ -22,7 +22,7 @@ Automatically Remove Background, No Photoshop skills are required at all. [PixMi
 
 Professional portraits for every career stage at [HeadShots.fun](https://headshots.fun/)
 
-Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/)
+Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/) [PDF to MD](https://pdf-to-md.com/)
 
 From Story to Animation - The professional AI workbench for Animated Story. [AniKuku](https://anikuku.com/)
 
