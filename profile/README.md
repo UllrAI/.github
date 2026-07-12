@@ -8,16 +8,16 @@ UllrAI is an independent product studio.
 
 We build practical products and open-source tools for creators and developers.
 
-## Featured open source
+## 🚀 Featured open source
 
-- **🔥[CineGen ShortDrama][cinegen]** — AI manga and animation production.
-- **🔥[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
-- **🔥[HeadShots.fun][headshots-repo]** — Open-source AI headshot SaaS.
+- 🔥 **[CineGen ShortDrama][cinegen]** — AI manga and animation production.
+- 🔥 **[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
+- 🔥 **[HeadShots.fun][headshots-repo]** — Open-source AI headshot SaaS.
 - **[VibeSKU Agent][vibesku-agent]** — Agent skills for e-commerce visuals.
 
 [Explore all repositories →](https://github.com/orgs/UllrAI/repositories)
 
-## Products
+## ✨ Products
 
 ### Creative tools
 
@@ -35,7 +35,7 @@ We build practical products and open-source tools for creators and developers.
 - [MQTT.pro](https://mqtt.pro/) — Practical MQTT tools for developers
 - [SaaS Starter](https://starter.ullrai.com/) — Full-stack SaaS starter kit
 
-## Contributing
+## 🤝 Contributing
 
 Found a bug or have an idea? Open an issue in the relevant repository.
 
@@ -46,6 +46,5 @@ Questions or partnerships? Email [hello@ullrai.com][contact].
 [headshots-repo]: https://github.com/UllrAI/HeadShots.fun
 [repositories]: https://github.com/orgs/UllrAI/repositories
 [saas-starter]: https://github.com/UllrAI/SaaS-Starter
-[vibe-pr]: https://github.com/UllrAI/Vibe-PR-Reviewer
 [vibesku-agent]: https://github.com/UllrAI/vibesku-agent
 [website]: https://ullrai.com/
