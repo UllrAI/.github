@@ -10,10 +10,9 @@ We build practical products and open-source tools for creators and developers.
 
 ## Featured open source
 
-- **[CineGen ShortDrama][cinegen]** — AI manga and animation production.
-- **[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
-- **[HeadShots.fun][headshots-repo]** — Open-source AI headshot SaaS.
-- **[Vibe PR Reviewer][vibe-pr]** — AI-powered GitHub code reviews.
+- **🔥[CineGen ShortDrama][cinegen]** — AI manga and animation production.
+- **🔥[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
+- **🔥[HeadShots.fun][headshots-repo]** — Open-source AI headshot SaaS.
 - **[VibeSKU Agent][vibesku-agent]** — Agent skills for e-commerce visuals.
 
 [Explore all repositories →](https://github.com/orgs/UllrAI/repositories)
