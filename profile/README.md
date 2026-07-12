@@ -1,33 +1,52 @@
-# We are UllrAI
+# UllrAI
 
-## 👋 Hi there
+**Practical software and AI products that make complex work simpler.**
 
-Welcome to UllrAI, where we use technology to simplify the world. We are all about creating simple, useful, and affordable AI tools for everyone.
+[Website][website] · [Repositories][repositories] · [Contact][contact]
 
-## 🙋‍♀️ Introduction
+UllrAI is an independent product studio.
 
-Our mission is to utilize AI to simplify people's lives, freeing them from mundane and repetitive tasks. This opens up time for more innovative and creative pursuits, as well as fostering stronger connections with loved ones. We believe that AI is intended to make complex issues accessible to all. By identifying routine tasks that can benefit from AI solutions, we can make a significant difference in people's daily lives.
+We build practical products and open-source tools for creators and developers.
 
-## 🌈 Contribution Guidelines
+## Featured open source
 
-We welcome contributions from the community. If you have ideas on how to improve our AI tools or have identified routine tasks that could benefit from AI solutions, we would love to hear from you. Please feel free to contact us.
+- **[CineGen ShortDrama][cinegen]** — AI manga and animation production.
+- **[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
+- **[HeadShots.fun][headshots-repo]** — Open-source AI headshot SaaS.
+- **[Vibe PR Reviewer][vibe-pr]** — AI-powered GitHub code reviews.
+- **[VibeSKU Agent][vibesku-agent]** — Agent skills for e-commerce visuals.
 
-## 👩‍💻 Useful Resources
+[Explore all repositories →](https://github.com/orgs/UllrAI/repositories)
 
-For more information about our mission, our approach, and our products, please visit our website at [UllrAI](https://ullrai.com/) or [email us](mailto:hello+github@ullrai.com). 
+## Products
 
-## Product
+### Creative tools
 
-Automatically Remove Background, No Photoshop skills are required at all. [PixMiller](https://pixmiller.com/)
+- [PixMiller](https://pixmiller.com/) — Background removal and image editing
+- [HeadShots.fun](https://headshots.fun/) — AI-generated professional headshots
+- [AniKuku](https://anikuku.com/) — AI production workspace for animated stories
+- [VibeSKU](https://vibesku.com/) — E-commerce visuals generated from product photos
+- [HiPNG](https://hipng.com/) — Transparent PNG generation and asset library
 
-Professional portraits for every career stage at [HeadShots.fun](https://headshots.fun/)
+### Developer and productivity tools
 
-Transform Any Document into Clean Markdown [To Markdown](https://to-markdown.com/) [PDF to MD](https://pdf-to-md.com/)
+- [To Markdown](https://to-markdown.com/) — Convert documents into clean Markdown
+- [PDF to MD](https://pdf-to-md.com/) — Convert PDFs into Markdown
+- [QRMiller](https://qrmiller.com/) — QR code generator
+- [MQTT.pro](https://mqtt.pro/) — Practical MQTT tools for developers
+- [SaaS Starter](https://starter.ullrai.com/) — Full-stack SaaS starter kit
 
-From Story to Animation - The professional AI workbench for Animated Story. [AniKuku](https://anikuku.com/)
+## Contributing
 
-Turn SKU Photos into Ecommerce Visuals [VibeSKU](https://vibesku.com/)
+Found a bug or have an idea? Open an issue in the relevant repository.
 
-AI Transparent PNG Generator & Image Library - [HiPNG.com](https://hipng.com/)
+Questions or partnerships? Email [hello@ullrai.com][contact].
 
-A SaaS boilerplate created entirely by Vibe Coding [SaaS Starter](https://starter.ullrai.com/)
+[contact]: mailto:hello@ullrai.com
+[cinegen]: https://github.com/UllrAI/CineGen-ShortDrama
+[headshots-repo]: https://github.com/UllrAI/HeadShots.fun
+[repositories]: https://github.com/orgs/UllrAI/repositories
+[saas-starter]: https://github.com/UllrAI/SaaS-Starter
+[vibe-pr]: https://github.com/UllrAI/Vibe-PR-Reviewer
+[vibesku-agent]: https://github.com/UllrAI/vibesku-agent
+[website]: https://ullrai.com/
