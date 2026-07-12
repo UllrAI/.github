@@ -8,7 +8,7 @@ We build practical software and AI products for creators and developers.
 
 ## 🚀 Featured repositories
 
-- **[CineGen ShortDrama][cinegen]** — AI manga and animation production for AniKuku.
+- **[CineGen ShortDrama][cinegen]** — AI manga and animation production.
 - **[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
 - **[HeadShots.fun][headshots-repo]** — AI headshot SaaS powered by Replicate.
 - **[VibeSKU Agent][vibesku-agent]** — Agent skills for VibeSKU workflows.
