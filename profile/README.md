@@ -1,19 +1,17 @@
 # UllrAI
 
-**Practical software and AI products that make complex work simpler.**
+**Using technology to simplify the world.**
 
 [Website][website] · [Repositories][repositories] · [Contact][contact]
 
-UllrAI is an independent product studio.
+We build practical software and AI products for creators and developers.
 
-We build practical products and open-source tools for creators and developers.
+## 🚀 Featured repositories
 
-## 🚀 Featured open source
-
-- 🔥 **[CineGen ShortDrama][cinegen]** — AI manga and animation production.
-- 🔥 **[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
-- 🔥 **[HeadShots.fun][headshots-repo]** — Open-source AI headshot SaaS.
-- **[VibeSKU Agent][vibesku-agent]** — Agent skills for e-commerce visuals.
+- **[CineGen ShortDrama][cinegen]** — AI manga and animation production for AniKuku.
+- **[SaaS Starter][saas-starter]** — Full-stack TypeScript SaaS starter.
+- **[HeadShots.fun][headshots-repo]** — AI headshot SaaS powered by Replicate.
+- **[VibeSKU Agent][vibesku-agent]** — Agent skills for VibeSKU workflows.
 
 [Explore all repositories →](https://github.com/orgs/UllrAI/repositories)
 
